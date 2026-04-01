@@ -1,7 +1,8 @@
 # 🚀 Berlin Fleet Demand & Optimization Analysis
 
 ## 📌 Overview
-This project analyzes spatial demand and fleet supply distribution in Berlin using simulated micromobility data. It identifies mismatches between demand and supply and proposes rebalancing strategies.This project demonstrates how geospatial analysis can be applied to real-world mobility operations to improve fleet efficiency and service availability.
+This project analyzes spatial demand and fleet supply distribution in Berlin using simulated micromobility data. It identifies mismatches between demand and supply and proposes rebalancing strategies.
+This project demonstrates how geospatial analysis can be applied to real-world mobility operations to improve fleet efficiency and service availability.
 
 ---
 
