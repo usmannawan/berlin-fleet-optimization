@@ -8,7 +8,7 @@ This project analyzes spatial demand and fleet supply distribution in Berlin usi
 ## 🗺️ Demand Hotspots
 ![Demand Map](outputs/maps/demand_hotspots.png)
 
-- High demand observed in Brandenburg and Wedding
+- High demand observed in Brandenburger torr and Wedding
 - Demand is spatially clustered
 
 ---
@@ -25,7 +25,7 @@ This project analyzes spatial demand and fleet supply distribution in Berlin usi
 
 - Wedding → Undersupplied (high demand, low supply)
 - Hauptbahnhof → Undersupplied
-- Brandenburg → Balanced
+- Brandenburgur torr → Balanced
 - Mitte → High concentration of vehicles
 
 ---
