@@ -58,6 +58,14 @@ This project demonstrates how geospatial analysis can support operational decisi
 - Matplotlib
 - Contextily
 
+## 📌 Key Skills Demonstrated
+
+- Geospatial data analysis
+- Python (GeoPandas, Pandas)
+- Spatial visualization
+- Demand-supply modeling
+- Operational decision support
+
 ---
 
 ## 👤 Author
